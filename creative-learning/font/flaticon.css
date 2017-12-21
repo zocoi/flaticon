@@ -1,0 +1,67 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 11/12/2017 08:10
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-microphone:before { content: "\f100"; }
+.flaticon-002-sofa:before { content: "\f101"; }
+.flaticon-003-mind:before { content: "\f102"; }
+.flaticon-004-plane-ticket:before { content: "\f103"; }
+.flaticon-005-analytics:before { content: "\f104"; }
+.flaticon-006-conference:before { content: "\f105"; }
+.flaticon-007-information:before { content: "\f106"; }
+.flaticon-008-book:before { content: "\f107"; }
+.flaticon-009-questionary:before { content: "\f108"; }
+.flaticon-010-projector:before { content: "\f109"; }
+.flaticon-011-emotions:before { content: "\f10a"; }
+.flaticon-012-love:before { content: "\f10b"; }
+.flaticon-013-brainstorm:before { content: "\f10c"; }
+.flaticon-014-open-mind:before { content: "\f10d"; }
+.flaticon-015-opportunity:before { content: "\f10e"; }
+.flaticon-016-business-cards:before { content: "\f10f"; }
+.flaticon-017-speech:before { content: "\f110"; }
+.flaticon-018-writing:before { content: "\f111"; }
+.flaticon-019-laser-pen:before { content: "\f112"; }
+.flaticon-020-success:before { content: "\f113"; }
+.flaticon-021-guru:before { content: "\f114"; }
+.flaticon-022-guest:before { content: "\f115"; }
+.flaticon-023-teamwork:before { content: "\f116"; }
+.flaticon-024-idea-1:before { content: "\f117"; }
+.flaticon-025-focus:before { content: "\f118"; }
+.flaticon-026-translator:before { content: "\f119"; }
+.flaticon-027-notebook:before { content: "\f11a"; }
+.flaticon-028-chat:before { content: "\f11b"; }
+.flaticon-029-creative-1:before { content: "\f11c"; }
+.flaticon-030-creative:before { content: "\f11d"; }
+.flaticon-031-idea:before { content: "\f11e"; }
+.flaticon-032-breakfast:before { content: "\f11f"; }
+.flaticon-033-seats:before { content: "\f120"; }
+.flaticon-034-certificate:before { content: "\f121"; }
+.flaticon-035-open-book:before { content: "\f122"; }
+.flaticon-036-knowledge:before { content: "\f123"; }
